@@ -1,0 +1,538 @@
+                                                                                                                                    4 June 2023
+Introduction:
+MegaWalls Duels (MWD) is a mode based on the competitive gamemode MegaWalls (MW). MWD is one of the 3 modes with kit pvp. It is very different from every other duels mode. 
+
+To succeed in MWD you will need to be decent at pvp and have knowledge of each of the kits or you can dodge your ass of but you will still need basic knowledge not to get dropped by nons.
+
+My Experience:
+I have 10k MWD solos and 1.6k MWD doubles wins (boosted). When writing this I am playing duels for the first time in 6 months and MWD for the first time in 8. I have 10k class wins with Assassin. I have gotten several high winstreaks as well.
+
+
+Basic information:
+You get to a class to use, I provided extensive information on classes below.
+There are normally 20 hearts, with 40HP as default.
+Kits = Classes
+The experience bar shows energy. Energy is used for skills. To use a skill you will need 100 energy.
+Getting energy depends on what class you use, See below. 
+Uses the same maps as OP duels
+To use a skill block your sword or left-click the bow.
+Some abilities automatically happen.
+All classes come with 64 blocks, an axe, a sword and a bow.
+1 heart = 2 HP
+The default is 15 arrows
+Those with 2 extra hearts have Prestige I for the class in regular MW in that specific kit.
+
+
+
+
+
+Classes:
+Classes can be categorised into difficulty and play style:
+
+Difficulty 1: Very easy to learn and very hard to mess up. Although these classes can be effective, they aren't reliable for long-term success.
+Difficulty 2: Skills will need to be applied relatively strategically unlike 1, if done right these kits can be effective.
+Difficulty 3: The skills are relatively easy to understand however you will need to heavily utilise the skills for a somewhat effective outcome. I don’t recommend these kits.
+Difficulty 4: Skills need to be applied carefully and skillfully otherwise the skills will practically do nothing but if done right and using the correct timing they will be effective. These kits aren’t kind with time, if you’re looking for quick wins don't use this difficulty however they dominate the end game. If you’re willing to be ‘that guy’ (the kits are annoying to go against) you can dominate the game with these kits and barely lose.
+
+Ranged: These kits rely on using the bow to win, you won't find success unless you heavily utilise the bow.
+Mobility: These kits have skills that when used the player will move in a way that advantages them.
+Support: These kits have lots of healing.
+Fighter: Direct PvP matters more with these kits.
+Damage: These kits are characterised by having a skill that directly gives the opponent damage without doing anything. These can kill unsuspecting players or brute force them till they die. 
+Rusher: Not really sure lol. Pretty sure it means it's good for rushing.
+Tank: These kits allow you to take lots of hits without losing lots of damage.
+Control: These kits can be similar to the damage playstyle by inflicting damage on the opponent by using the skill but differ in the way it's delivered.
+
+
+
+
+Difficulty ¼:
+
+Dreadlord: Rusher/Damage
+Golem: Tank/Control
+Herobrine: Damage/Control
+Pigman: Damage/Tank
+Zombie: Tank/Support
+Arcanist: Control/Fighter
+Cow: Support/Tank
+
+Difficulty 2/4: 
+Assassin: Fighter/Mobility
+Shaman: Control/Mobility
+Squid: Control/Tank
+Werewolf: Mobility/Tank
+Hunter: Ranged/Fighter
+Enderman: Mobility/Fighter
+Blaze: Damage/Ranged
+
+Difficulty ¾ 
+Shark: Fighter/Control
+Phoenix: Support/Ranged
+Skeleton: Ranged/Control
+Automaton: Tank/Fighter
+Moleman: Damage/Mobility
+Spider: Mobility/Rusher
+Pirate: Fighter/Damage
+
+Difficulty 4/4: 
+Creeper: Control/Damage
+Renegade: Mobility/Ranged
+Snowman: Damage/Fighter
+
+Information on every class (can be used for playing with or against it):
+This is for 1v1’s not 2v2’s, some of the skills may affect all opponents so I may not have added them because they can’t be used in 1v1’s. I didn't put cooldowns if they are too short to worry about. I also didn’t put useless parts because they cannot be used in this version of megawalls and was made for regular MW. 
+
+All tips come from me using assassin class but they can still be generalised.
+
+Not all tips are the best for using a kit, as the kit is likely garbage and I haven’t played it.
+
+On page 11 see ‘Misc Tips’ for generalised tips.
+
+A Hit is receiving damage via a bowshot or melee hit.
+Continuous energy is the energy received while doing nothing.
+Damage is an HP.
+
+Dreadlord: 
+Skill (Shadow Burst): 3 projectiles dealing a total of 8 damage.
+Items: 2 Instant Health III (8 hearts), 2 Speed II 15 seconds (40% Speed)
+Ability (Soul Eater): Every 4 hits against you will restore 3 hunger and 2HP.
+Energy: 10 energy per hit.
+
+Tips for using: 
+Don’t, if you do it's pretty self-explanatory.
+
+Tips for countering: 
+You can’t lose to this unless you’re horrible, dodge the projectiles when possible.
+
+Golem:
+Skill (Iron Punch): Can be used with 4.5 blocks of the player and causes  6HP damage while pulling the player inwards and giving temporary blindness (1 second).
+Items: 2 Regeneration III 12 seconds (10 hearts), 2 Splash Slowness 7 seconds + Weakness IV 7 seconds (-15% speed, -2 attack damage)
+Ability (Iron Heart): Not for 1v1’s, upon killing a player you gain absorption II for 10 seconds.
+Energy: No continuous energy, 10 energy per hit with a bow or melee.
+
+Tips for using: 
+When starting melee, use the weakness IV potion
+Use Iron Punch instantly when available.
+The position the player is relative to you matters in Iron Punch. They can get behind you surprisingly.
+Note that the potion can affect you too.
+
+Tips for countering: 
+When going in the initial melee combat, dodge the weakness potions that will likely be thrown. 
+Avoid being on low health due to the ability to take away 3 hearts instantly
+If the person you’re playing against is competent it would be wise to not do much trading if you have weakness IV
+Avoid being at a high health disparity eg. (15-40) due to the class being bulky they can catch up even if you’re dominating them.
+
+Herobrine (hb):
+Skill (Wrath): Attacks all enemies in a 5-block radius for 5 damage.
+Items: 2 Speed II 15 seconds (40% Speed), 2 Instant Health (7 hearts)
+Ability (Power): Upon killing an enemy, your melee damage is increased by 65% for 6 seconds.
+Energy: No continuous energy, 25 energy per hit with a bow or melee.
+
+Tips for using:
+Use Wrath as soon as available, don’t hit them again with 100 energy, use it instantly.
+Use the speed pot before you are going into melee combat at the beginning of the game.
+If you are at a disparity such as 15-30, it can be bad since you just need to eat the damage to drink the health pot.
+If you’re going to lose, pot at 10HP as a last resort if you can’t get away.
+Backing down when at a similar health can be a bad move given the other class given hb isn't a good class.
+
+Tips for countering: 
+Avoid running away as this possibly allows them to get a significant amount of damage on you.
+Rushing them worked better than running.
+They heal up, and you heal. This is a must in most cases unless you are at a very significant health advantage.
+If you have a chance to heal, do it.
+
+
+Pigman:
+Skill (Burning Soul): A vortex forms (entity) attacking enemies in a 7-block radius dealing up to 6 damage over 5 seconds if it lands. It fizzles out after 6 seconds or it gets obstructed by more than one solid block. Your next 4 melee hits will deal 25% more damage for the next 4 seconds.
+Items: 2 Speed II 15 seconds (40% Speed), Instant Health (10 hearts), 
+Ability (Valor): After 6 attacks you get regeneration I for 5 seconds. 
+Energy: No continuous energy, 10 energy per hit with a bow or melee.
+
+Tips for using: 
+As this is a tank class you need to consistently put pressure on the opponent.
+You don’t need to worry as much about HP given it's a Tank and just keep pressure on the opponent.
+Don’t let them heal. 
+
+Tips for countering: 
+If at low health, you need to be wary of Burning Soul because when it gets you you lose 3 hearts.
+As a general rule against Tank play styles, you need to keep your health in a comfortable place.
+Using blocks to fizzle the vortex out is a bad idea.
+
+Zombie:
+Skill (Circle of Healing): Heal 8HP
+Items: 2 Speed II 15 seconds (40% Speed), Instant Health (10 hearts)
+Ability (Toughness): You will gain resistance I for 1 second after getting attacked 3 times.
+Energy: 12 per hit (bow and melee), No continuous energy, 1 energy when attacked by melee, 2 energy when attacked by the bow.
+
+Tips for using: 
+As this is a tank class you need to consistently put pressure on the opponent.
+You don’t need to worry as much about HP given it's a Tank and just keep pressure on the opponent.
+Don’t let them heal.
+
+Tips for countering: 
+Expect constant pressure when handling this kit and take into account the Circle of Healing when in combat.
+As a general rule against Tank play styles, you need to keep your health in a comfortable place.
+
+Arcanist: ******
+Skill (Arcane Beam): Hits the opponent for 2HP with 34 blocks
+Items: 2 Speed II 15 seconds (40% Speed), 2 Instant Health III (8 hearts)
+Ability: Not useful for 1v1’s
+Energy: No continuous energy, 34 per hit (melee and bow), 36 residual (leftover)
+
+Tips for using: 
+Always use Arcane Beam when ready.
+Avoid low health as it will put you in an uncomfortable position.
+You can follow similar ideas as this class is similar to herobrine.
+
+Tips for countering: 
+You can follow similar ideas as this class is similar to herobrine.
+Don’t run away unless necessary and just diminish their health faster than they can yours.
+Cow: 
+Skill (Soothing Moo): Granting resistance I and regeneration II for 2.5 seconds.
+Items: Milk 5 seconds (regeneration II (2 hearts over 5 seconds), resistance I 5 seconds), 2 Speed II 15 seconds (40% Speed), Instant Health (10 hearts)
+Ability (Bucket Barrier): Once below 20HP for the next 20 seconds the next 4 sources of damage with be blocked by 25%. Whenever damage gets blocked, you will get healed 2HP.
+Energy: No continuous energy, 20 per hit (melee and bow)
+
+Tips for using: 
+You can’t do much except heal when you need to, use the milk when in combat and time the skill correctly
+Tips for countering: 
+I’ve never lost to a cow class before so just hit them and utilise your class.
+Make sure you don’t fumble and accidentally get a 10-40. Otherwise, you won’t lose.
+
+Assassin (asn):
+Skill (Shadow Cloak): Become invisible and gain Speed I and Resistance I for 10 seconds. Attacking an enemy cancels invisibility and resistance. Dealing extra damage equal to 10% of that of the opponent missing health. Refunds 4 energy each second of invisibility that remained when it goes.
+Items: Combined potion (Regeneration III (5 hearts over 6 seconds), Speed II 10 seconds (40% speed))
+Ability (Shadow Step): When sneaking and taking damage (melee or ranged) within 25 blocks you will teleport behind your opponent and not take the damage that teleported you. This will not trigger when shadow cloak is active. When below 10HP this will not work. Cooldown 10 seconds.
+Energy: 2 continuous, 10 per hit (melee and bow)
+
+Tips for using: 
+Don’t make it obvious you’re going to use Shadow Sneak, instead shift at the last second.
+Time the pot at the beginning so you can get as much Regen III as possible.
+Don’t use Shadow Sneak when you’re very close to the opponent, this reduces the effectiveness of the ability.
+If someone is using a bow kit, use a combination of strafes with speed and Shadow Sneak.
+Don’t hold on to Shadow Cloak for too long as it wastes energy but it doesn’t need to be used instantly. This is because sometimes they can run away before you have a chance to hit them, wasting the energy and not getting a hit with increased damage.
+Don’t use a regen pot if you’re going to be hit by the opponent, this just makes it worse for yourself.
+When running and needing energy to use Shadow Cloak due to low health, utilise the bow.
+
+Tips for countering: 
+If someone is shifting before you even attack them prepare to hold the ‘s’ key as this will mess up their Shadow Sneak and you will gain the advantage not them.
+If you’re a toxic piece of work you can run 5 seconds to wait out the regen III effect.
+Use the arrow on the scoreboard when the player is invisible to get a general idea of where they are.
+When the player is invisible it is obvious to see them walk given their footsteps.
+Don’t bow in a way it allows them to ambush you with Shadow Sneak.
+Watch out for footsteps.
+In the case of asn v. asn you need to carefully use your abilities and make sure you’re not the loser who uses them strategically and then loses. Being the first use an ability can sometimes be disadvantageous, so you need to be careful.
+Always be ready for a Shadow Sneak.
+
+
+
+Shaman:
+Skill (Tornado): Causes 1.75 damage to players in a 6-block radius every second for 5 seconds.
+Items: 2 Instant Health III (8 hearts), 2 Speed II 15 seconds (40% Speed)
+Ability (Heroism): You will gain Speed II and apply Weakness I on the enemy player for 5 seconds after every 6 attacks (including hits from tornado)
+Ability (Wolf Pack): Wolf’s spawn when you’re attacked.
+Energy: No continuous, 10 per hit (melee and bow), 5 residual *****
+
+Tips for using: 
+Utilise the wolfs as they provide a distraction. The opponent will either attack the wolf/wolves and you can crit them out/heal or the wolf does damage as well.
+Use skill instantly when within 6 blocks.
+
+Tips for countering: 
+Don’t choose to attack the wolf over the opponent.
+If you can separate and kill the wolf that would be ideal.
+Shaman isn’t very good besides the wolf, just ignore the wolf.
+
+Squid:
+Skill (Squid Splash): Opponent pulled inwards, dealing 3.5 damage to all enemies who are up to 5.25 blocks in from of you in a fan shape (semicircle in front of you). You are healed by 70% of the total damage dealt. You can heal for a maximum of 7HP.
+Items: Speed II 15 seconds (40% Speed), 3 Instant Health (6 hearts)
+Ability (Inner Ink): Every time you finish drinking a potion you give blindness to enemies in a 5-block radius for 3 seconds.
+Energy: 10 per hit (melee and bow), No continuous, 10 residual *****
+
+Tips for using: 
+Utilise the ability correctly
+
+Tips for countering: 
+Don’t be close to the opponent when drinking a potion.
+Be aware of the inward pull.
+
+Werewolf:
+Skill (Lycanthropy): You will gain Speed II for 8 seconds. After the speed effect is over, enemies in a 5-block radius will receive a burst of damage based on how many unique enemies you attacked with your sword.
+The burst of damage you will deal increases by 1.5 per unique enemy. Min 1 max 5. You heal 25% of the melee damage and burst damage dealt against enemies. The burst damage has a healing cap of 10HP.
+Items: Instant health (8 hearts), 3 combined potions 15 seconds (Speed II, Jump Boost (5 blocks)), 
+Ability (Blood Lust): Gain Speed I and Resistance I for 6 seconds after landing any combination of 3 consecutive attacks without taking damage.
+Energy: 2 energy when hit (melee, bow), 8 energy per hit (melee, bow)
+
+Tips for using: 
+Use the abilities to their potential. 
+Use the potion to confuse the opponent.
+
+Tips for countering: 
+Don’t get dropped.
+Don’t lose your aim when they use the potion.
+
+Hunter:
+Skill (Eagles Eye): For 15 seconds you will shoot homing arrows with your bow when fully charged. You receive 0.25 HP from melee hits and 1 HP for homing arrows. Getting bow energy will be temporarily disabled for the 15-second duration. And mele energy is halved to 2 during this time.
+Items: 5 Golden apples (3 hearts + 2 temporary hearts), 
+Ability (Animal Companion): When getting attacked you have a 20% chance of spawning a random animal. You can spawn, a chicken jockey, zombie pigman (weakness II), spider, exploding sheep, tamed wolf, cow (resistance II) You can right-click your carrot on a stick to spawn a tamed pig. The pig is controllable and invincible. Lasts 30 seconds with a 60-second cooldown after despawning. You cannot activate abilities on the pig or shoot homing arrows although hits will heal for twice the amount for the duration of your ability if your ability was active beforehand. 4-second cool down.
+Energy: 0.75 continuous, 8 energy per bow hit, 4 per melee, 
+Force of Nature: It also can receive buffs from passive ability, allow to escape from danger. These include Speed I, Regeneration I (11 seconds), Resistance I (7 seconds), Haste III (15 seconds), Strength I (5 seconds), Regeneration III (5 seconds), Absorption II (8 seconds) and Speed II (8 seconds).
+
+
+Tips for using: 
+Please don’t use it, it’s sad as hell.
+I’m not giving tips because I hate hunter.
+
+Tips for countering: 
+Don’t give them time, against a hunter time is your enemy.
+If you get a pigman spawn you’re f*cked.
+If they are competent, you’re f*cked.
+The healing is incredible on hunter, you can’t always let them heal.
+You can’t let them get homing arrows, if you’re not an assassin you need to hide behind a block wall and attack them.
+Try and use a speed pot and rush them.
+If you’re an assassin you need to be careful when using Shadow Cloak because you cannot use Shadow Sneak when it is active. If they activate homing arrows you’re done.
+Strafe well
+Be careful of Force of Nature because that 5-second strength buff will be the end of you.
+
+Enderman:
+Skill (Teleport): Cooldown 6 seconds. Teleport up to 25 blocks towards to nearest player and gain Speed III for 5 seconds.
+Items: 2 Instant Health III (8 hearts), 2 Speed II 15 seconds (40% Speed)
+Ability (Ender Heart): Not useful in 1v1s.
+Energy: No continuous, 20 energy per hit
+
+Tips for using: 
+Use the bow to get the energy to teleport
+Teleport when they are healing.
+In the beginning, use the speed pot to get energy.
+When you’re close to the opponent you need to use teleport more wisely.
+Don’t walk forwards when teleporting.
+
+Tips for countering: 
+Don’t let them bow to you to get lots of energy easily.
+Be ready for the teleport at any time, healing, eating, potting etc.
+I don’t think holding ‘s’ when teleported doesn’t work but give it a try.
+
+Blaze:
+Skill (Immolating Burst): Shoot 3 fireballs, each fireball deals 3 damage. 9 damage total if all 3 connect.
+Items: 128 arrows, 2 Instant Health III (8 hearts), 2 Speed II 15 seconds (40% Speed)
+Ability (Call of the Blazes): not useful in 1v1s
+Energy: 4 continuous, 8 melee, 4 bow
+
+Tips for using: 
+Utilise the bow heavily if you want to win.
+Use Immolating Burst as soon as you can effectively.
+
+Tips for countering: 
+Assassin class
+Strafe and speed towards them when bow spamming.
+Be ready for Immolating Burst.
+Be aggressive, but not too aggressive its reckless.
+
+Shark:
+Skill (From the Depths): Create a 7-block square area of water around you for 5 seconds. You gain regeneration I for the duration of the skill. If an enemy interacts with your pool of water, they will receive slowness I until the pool disappears. 
+Items: 2 Speed II 15 seconds (40% Speed), 2 Instant Health III (8 hearts),
+Ability (Blood Rage): If you or an enemy within a 9-block radius is under 15HP, you deal +21.5% damage. You deal +0.75HP extra damage when standing or attacking enemies in the water that comes from your ability. Maximum 1.5HP.
+Energy: 18 Energy per hit 
+
+Tips for using: 
+Use the pool to trap the opponent and combo them.
+
+Tips for countering: 
+Avoid going into the opponent's pool, wait them out.
+Be ready for a pool.
+If you’re in a pool get out.
+
+Phoenix:
+Skill (Spirit Bond): 
+Items: 2 Speed II 15 seconds (40% Speed), 2 Instant Health III (8 hearts),
+Ability (Sun Ray): 
+Energy: 
+
+Tips for using: 
+Utilise the health potions whenever you can.
+You need to use the bow to stand a chance against good players.
+
+Tips for countering: 
+Assassin class
+Have high health all the time as the support on Phoenix is insane.
+Strafe and Dodge.
+
+
+Skeleton:
+Skill (Explosive Arrow): You will fire an explosive arrow that deals 6 damage in a 6-block radius and can break blocks. Undercharged bows give 50% energy (12.5), medium charged give 75% energy (18.78)
+Items: 2 Speed II 15 seconds (40% Speed), 2 Instant Health III (8 hearts), 64 arrows
+Ability (Salvaging): After landing 1 bow shot against enemies you will receive 2 arrows and gain saturation.***
+Energy: no melee energy, 25 energy per bow hit.
+
+Tips for using: 
+Remember the bow is your best friend, without the bow you will lose.
+If someone hiding use the explosive arrow.
+When the ability is ready, use it.
+Tips for countering: 
+Depending on how annoying the opponent is you can beat them with speed and strafing. If not you’re done unless you’re an asn class.
+Try and strafe the Explosive Arrow.
+If you’re involved in blocks expect the possibility of the blocks being destroyed.
+
+Automaton:
+Skill (EMP): Creates 6 pulses for 6 seconds, one per second, each pulse will deal 1 damage and give weakness ii for 2 seconds to enemies while they lose 8 energy.
+You can have a max of 160 energy, bt you lose 1 energy every second when you are above 101 energy.
+Items: 2 Speed II 15 seconds (40% Speed), 3 Instant Health (6.5 hearts)
+Ability (Power Storage): When an enemy attacks you, their hit grants 75% of their energy it would normally. You store the remaining energy and convert it to power, giving you 1 bonus true damage for your next attack after storing 45 energy. ******
+Energy: 4 energy per hit, 6 energy when hit melee/bow.
+
+Tips for using: 
+Don’t unless you’re crazy, this kit is possibly the worst.
+If you want to, figure it out yourself.
+
+Tips for countering: 
+I have not once lost to an Automaton, just use your kit normally.
+
+Moleman: 
+Skill (Dig): Charge forward up to 8 blocks instantly breaking any blocks in your path. Any enemies hit by this will take 6 damage. You will receive resistance I for 2 seconds.
+Items: 2 Instant Health III (9 hearts), 
+Ability (Shortcut): After digging 3 shovel-related blocks, you will receive speed II and haste II for 4 seconds.
+Energy: 10 per hit,
+
+Tips for using: 
+Whenever not in combat run and dig the ground with your shovel.
+Use the ability as soon as you get it.
+
+Tips for countering: 
+Be ready for a haste player when they use their ability.
+Not much to beating Moleman.
+
+Spider: 
+Skill (Leap): You can leap in the air building up damage the farther you travel. Upon landing on your opponents in front of you, you will deal a minimum of 3 damage and give enemies slowness I for 4 seconds in a 4-block radius while receiving regeneration II for 5 seconds. This deals 1 bonus damage for every 4 blocks travelled, up to a maximum of 5 damage. Directly landing on the enemy will deal a bonus of 1.5x damage. You will lose 1 damage for every 2 blocks that separate you and an opponent when landing. You will take nonlethal recoil damage when landing on the enemy, equaling 50% of the highest damage you've dealt.
+Items: 2 Speed II 15 seconds (40% Speed), 2 Instant Health III (8 hearts),
+Ability (Venom Strike): For every 4 melee attacks, you will poison your opponent, dealing 3 damage over 5 seconds. 7-second cooldown.
+Ability (Skitter): If you melee enemies 4 times after landing with Leap within 3 seconds, you gain speed I for 5 seconds and earn 20 energy. You can toggle which leap path is your primary by right-clicking your shovel. Arced Leap: You are launched upwards to give you a vertical drop against nearby opponents. Arrowed Leap: You are launched forwards, allowing you to catch up to enemies or flee.
+Energy: 8 energy per hit, 4 continuous energy.
+
+Tips for using: 
+I can’t speak to this.
+
+Tips for countering: 
+You need to deal with the guy jumping everywhere, beating it is easy.
+Be aware of their Leaps.
+Play normally
+
+Pirate:
+Skill (Cannon Fire): Launch projectile that deals 8 damage on hit.
+Items: *Combined Potion 9 seconds (Regeneration III 7.5 hearts / 9 seconds, Absorption + 2 hearts)
+Ability (Angry Birds): Spawns one parrot every 20 seconds. Each parrot deals 1 damage against an individual enemy. You can spawn a maximum of 6 parrots. You are able to change the behaviour of the parrots with a 1-second cooldown. At Bay: Parrots will not attack any enemy, allowing you to keep them for later use. Lock On: Parrots will automatically attack the next enemy you attack, as long as they are within a 7-block radius. On Guard: Parrots will automatically attack any enemy in a 7-block radius.
+Energy: 12 per hit
+
+Tips for using: 
+I can’t speak well to this.
+Save the parrots for an unexpected attack.
+Use Cannon Fire as soon as you get it. Given you’re near the opponent.
+
+Tips for countering: 
+Attempt to dodge Cannon Fire by strafing.
+Never be in low health, be in high health because of parrot stacking + Cannon Fire.
+Don’t give them lots of time.
+
+Creeper:
+Skill (Detonate): Set off an explosion that deals up to 10 damage in a 6-block radius. However, you will lose 1 damage for every block that separates you and an opponent, with a minimum of 5 damage. This takes 3 seconds to activate.
+Items: 2 Speed II 15 seconds (40% Speed), 2 Instant Health III (8 hearts), Creeper TNT 
+Ability (Fission Heart): Placing a TNT block will instantly prime it but will only do 87.5% of its original vanilla damage. Primed TNT does not break blocks or affect placed tnt near it.*** Sneaking places unprimed tnt.
+Energy: 30 per melee hit, 20 per bow hit
+Add creeper ability*******
+
+
+Tips for using: 
+Although it's a difficulty 4, it’s just not a good kit unless you want to be the most time-wasting annoying person that has ever existed. Even then it's not the greatest.
+Bait the player into falling into your TNT
+Use detonate as much as you can.
+
+Tips for countering: 
+Don’t fall into TNT baits
+Slowly and carefully reduce their HP and it will be an easy win.
+
+Renegade:
+Skill (Rend): Rip out and retrieve arrows that are currently pinned in enemies in an 8-block radius, dealing 2 damage for each arrow retrieved up to 6 arrows per enemy. 
+Items: 
+Ability (Grappling Hook): Launch a grappling hook up to 22 blocks away and rapidly pull yourself towards it, negating any fall damage. Regain 57 energy and gain Speed I for 3 seconds if you melee any enemy within 4 seconds of you casting the hook. Your hook will be damaged after use, making you vulnerable to fall damage and decreasing its reach by 50% during repeated use. You can repair your hook by meleeing an enemy. Costs 60 energy, Cooldown of the 20s. Arrows stay pinned for a minimum of 60 seconds pinning another arrow resets this timer to 60 seconds, up to a maximum of 180 seconds.
+Energy: 13 per melee, 17 per bow
+
+Tips for using: 
+Use the full utility of the bow otherwise, you may as well not use it.
+The grappling hook isn’t necessary, focus on Rend more.
+
+Tips for countering: 
+Avoid getting hit a lot by the boy due to the Rend skill being able to cause a great amount of damage.
+Use assassin
+Use a wall
+Strafe with speed.
+
+Snowman: 
+Skill (Ice Bolt): Shoot 3 ice bolts with 2 damage each. You’ll deal a total of 6 damage and also inflict slowness II for 3 seconds if at least 2 bolts hit. Costs 60 energy.
+Items: 2 Combined potions: Speed II 15 seconds, Absorption I 1:30, 2 instant health potions (8 hearts)
+Ability (Blizzard): By activating you will toggle on or off. This changes blocks in an area around you into the snow and slows enemies in a 5-block radius, giving them slowness II. You receive 1 HP every 1.25 seconds and loses 6 energy every second blizzard is active. Natural energy per second gain is disabled while enabled. Cooldown 6 seconds.
+Energy: 2 continuous energy, 8 energy per hit
+
+Tips for using: 
+I have never used Snowman but know many brilliant snowmen. Don’t take this as the best advice.
+Milk has every ability to make it unbeatable.
+Use Blizzard to gather snowballs and use them as projectiles.
+Bait them into your blizzard so you can take advantage of the slowness effect.
+Use Ice Bolt effectively and start attacking the opponent.
+
+Tips for countering: 
+Don’t let someone run around the map and get energy.
+Be cautious when engaging in combat.
+Strafe to avoid projectiles.
+Don’t engage in slowness combat.
+
+Picking a class to use:
+If you’re playing for fun this doesn’t apply.
+
+Look at the play styles and pick what you’re good at and find the kit with that style and read over it. If you like it and it fits use it which I recommend more. Alternatively, refer to what I suggest below if you want.
+
+If you’re boring and want to get wins,  I think the classes are good.
+Ranged: Hunter, Skeleton, Renegade, Blaze, Phoenix
+PvP: Assassin, Herbobrine, Arcanist Hunter, Snowman, Enderman, Pirate
+Only use ranged kits if you’re a loser and ass at the game like Kuruxo. 
+Other kits can be good but these are just better.
+Use all the information to choose your kit yourself.
+
+Overall to be decent you just need to learn how to effectively use the classes, even if you will never use a class it's good to learn how it works.
+
+Misc Tips:
+Looking at tab and learning the skins of each class can help.
+Having a rough idea of energy requirements can help
+Generally, never be on less than 20 HP
+Generally, it’s a good idea to heal up if they are healing, otherwise, you can easily be put at a disadvantage. Unless the opponent's healing is regeneration I would recommend healing up before going back to combat.
+Using a speed pot at the start of the game is most of the time a good idea, although it depends on personal preference.
+Always take into account that time is energy for some classes. The quicker the better. Allowing the other person to receive energy and you lose the advantage and lose. This has happened many times to me.
+If you’re not an assassin class and you go against a good ranged class, you either give up or build a block wall which doesn’t even work very well.
+
+
+
+Notable Players Kit Spread: (Not including RANDOM cheaters)
+Top 10:
+Confiscated: Assassin: 9809 Herobrine: 8027 Moleman: 2331 Hunter: 2172 Snowman: 1174
+Choooops: Herobrine: 15048 Assassin: 1839 Enderman: 377 Pirate: 288 Spider: 110
+Rationale: Assassin: 9647 Herobrine: 2179 Creeper: 1538 Shark: 742 Snowman: 673
+Mintyexd: Hunter: 15805 Phoenix: 491 Assassin: 170 Enderman: 87 Spider: 25
+Fossilised: Hunter: 4867 Assassin: 4708 Phoenix: 1566 Spider: 1244 Herobrine: 857
+Varsel: Assassin: 12362 Herobrine: 886 Pirate: 13 Moleman: 12 Enderman: 12
+Modernsword: Assassin: 9480 Herobrine: 2304 Arcanist: 46 Shark: 39 Hunter: 29
+Bissau/smashskitten/me: Assassin: 10150 Hunter: 175 Shaman: 145 Arcanist: 144 Zombie: 101
+Bejubee001: Snowman: 10037 Moleman: 973 Assassin: 187 Skeleton: 99 Arcanist: 28
+Bafy78: Assassin: 1913 Herobrine: 1807 Blaze: 762 Creeper: 389 Snowman: 382
+Other notable players
+Kim/Zandi: Hunter: 9881 Assassin: 71 Herobrine: 14 Renegade: 7 Spider: 6
+Sooya: Creeper: 2012 Herobrine: 1223 Assassin: 1021 Blaze: 215 Phoenix: 208
+Emirichu: Spider: 3053 Shark: 730 Herobrine: 321 Phoenix: 298 Hunter: 271
+Trixtzav: Snowman: 2134 Blaze: 1268 Hunter: 548 Herobrine: 318 Assassin: 252
+Ateam_: Herobrine: 4184 Shaman: 610 Werewolf: 20 Assassin: 12 Golem: 4
+GoofyGast7: Assassin: 5305 Hunter: 145 Herobrine: 126 Blaze: 97 Phoenix: 79
+Shaidynn: Arcanist: 5051 Automaton: 6 Spider: 5 Moleman: 4 Assassin: 3
+EhmmJ: Skeleton: 2669 Herobrine: 1081 Hunter: 717 Blaze: 192 Phoenix: 127
+Tenai: Herobrine: 3446 Arcanist: 784 Hunter: 668 Skeleton: 372 Assassin: 332
+Teaglz: Assassin: 4720 Snowman: 324 Hunter: 321 Spider: 192 Herobrine: 179
+
+
+
+
+
